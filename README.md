@@ -1,9 +1,10 @@
 "A liberdade absoluta não existe: o que existe é, é a liberdade de escolher qualquer coisa, e a partir daí tornar-se compromotido com a sua decisão" Paulo Coelho
 
 ![FlorBorboleta](https://user-images.githubusercontent.com/83592366/123703964-7c005a00-d83b-11eb-98b9-07458b940f27.jpg)
+
 [Foto tirada no sítio onde encontro inpiração para linhar minhas ideias]
 
-E porque falar sobre liberdade e natureza num rede de desenvolvedores? Pra mim é sobre como a escolha de fazer a transição de carreira para a tecnologia está sendo um caminho libertador e inspirador a desenvolver projetos e facilitações a outras areas de conhecimento.
+**E porque falar sobre liberdade e natureza num rede de desenvolvedores? Pra mim é sobre como a escolha de fazer a transição de carreira para a tecnologia está sendo um caminho libertador e inspirador a desenvolver projetos e facilitações a outras areas de conhecimento.**
 
 
 <!--
